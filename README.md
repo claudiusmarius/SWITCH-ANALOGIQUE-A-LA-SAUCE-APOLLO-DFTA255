@@ -71,9 +71,6 @@ Scripts de simulation
 
 Notes techniques et commentaires
 
-Explications sur les choix d’architecture
-
-Références historiques
 
 ⚠️ Limitations
 
@@ -83,16 +80,6 @@ Les simulations restent des approximations
 
 Sans commande réellement flottante (transformateur, optique, etc.), les essais pratiques sont limités
 
-📚 Sources et crédits
-
-Vidéos et archives : NASA Image and Video Library
-https://images.nasa.gov
-
-Vidéo originale : CuriousMarc – Apollo Comms
-
-Documentation technique Apollo (NTRS, archives NASA)
-
-Les images et vidéos NASA sont dans le domaine public.
 
 ✨ Pourquoi ce projet
 
